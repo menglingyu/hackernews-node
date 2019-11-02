@@ -14,7 +14,11 @@ typeScript + 原生node
 
 ### 其他工具
 
-pm2 + redis + ngix + babel
+1. pm2
+2. redis
+3. ngix
+4. babel
+5. qconf
 
 ### 质量管理
 
@@ -33,6 +37,14 @@ pm2 + redis + ngix + babel
 
 ## 架构设计
 
-### 异常处理
+1. 埋点系统
+2. 日志系统
+3. 异常处理
+4. 监控和报警系统
+5. 安全管理
+6. 权限管理
+7. 回滚降级容灾
+8. mock
+
 
 <!-- 1.  -->
