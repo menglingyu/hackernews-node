@@ -1,0 +1,17 @@
+logs/
+npm-debug.log
+yarn-error.log
+node_modules/
+yarn.lock
+.idea/
+.vscode/
+run/
+.DS_Store
+*.sw*
+*.un~
+**/dist/
+build/
+config/manifest.json
+app/view/*
+.history
+**/mock/
